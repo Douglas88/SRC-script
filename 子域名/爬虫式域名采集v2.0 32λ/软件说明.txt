@@ -1,0 +1,16 @@
+搞渗透神器  爬虫式 域名高速采集V2.0   可以避免搜索引擎封杀
+
+加入一新功能
+域名采集后按照后辍名自动创建和分文件夹
+
+运行方式带参数传入
+main.exe www.163.com 10
+程序名   爬虫头地址  爬虫线程数
+
+
+
+E-mail:29295842@qq.com
+BLOG:http://hi.baidu.com/alalmn
+
+软件下载地址
+https://onedrive.live.com/?cid=6e51f52b9f5b877a&id=6E51F52B9F5B877A!157

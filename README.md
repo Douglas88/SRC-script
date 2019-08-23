@@ -33,3 +33,12 @@ subDomainsBrute-master - 子域名检测
 wydomain-wydomain2 - 子域名检测
 
 src列表
+
+---
+
+2019 8.23 
+
+之前随便收集，很多脚本都比较老了~~
+
+更新一波
+

